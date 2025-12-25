@@ -1,4 +1,4 @@
-# Elevation-Dependent Glacier Albedo Modeling for Svalbard Glaciers
+# Elevation-Dependent Glacier Albedo Modeling for Svalbard Glaciers version 1.0
 
 This repository contains the complete workflow for modeling glacier surface albedo using machine learning and multi-algorithm satellite approaches, as described in **"Elevation-Dependent Glacier Albedo Modeling Using Machine Learning and Multi-Algorithm Satellite Approach in Svalbard"** by Cyran & Ignatiuk (2025).
 
